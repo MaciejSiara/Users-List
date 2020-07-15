@@ -4,8 +4,6 @@ import axios from "axios";
 const API_URL =
    "https://my-json-server.typicode.com/karolkproexe/jsonplaceholderdb/data";
 
-// const API_URL = "https://zadanie-8bb54.firebaseio.com/";
-
 export const fetchUsersStart = () => {
    return {
       type: actionTypes.FETCH_USERS_START,
