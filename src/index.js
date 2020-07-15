@@ -9,6 +9,7 @@ import thunk from "redux-thunk";
 import "./index.css";
 import App from "./App";
 import usersReducer from "./store/reducers/users";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 const composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose;
 
