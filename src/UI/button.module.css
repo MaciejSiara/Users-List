@@ -1,0 +1,31 @@
+.Button {
+   border: none;
+   border-radius: 4px;
+   color: white;
+   outline: none;
+   cursor: pointer;
+   padding: 10px 50px;
+}
+
+.Edit {
+   background-color: rgb(255, 166, 0);
+}
+
+.Delete {
+   background-color: red;
+}
+
+.Add {
+   background-color: rgb(20, 129, 255);
+   padding: 10px 70px;
+}
+
+.Cancel {
+   background-color: rgb(104, 104, 104);
+   padding: 10px 25px;
+   margin: 0 25px;
+}
+
+.Submit {
+   background-color: rgb(50, 255, 50);
+}

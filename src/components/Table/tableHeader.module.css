@@ -1,0 +1,8 @@
+.Username {
+   cursor: pointer;
+   transition: 0.1s ease-in;
+}
+
+.Username:hover {
+   background-color: rgb(224, 224, 224);
+}

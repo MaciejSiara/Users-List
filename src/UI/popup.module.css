@@ -1,0 +1,13 @@
+.PopUp {
+   position: fixed;
+   z-index: 500;
+   background-color: white;
+   width: 500px;
+   border: 1px solid #ccc;
+   box-shadow: 1px 1px 1px black;
+   padding: 16px;
+   left: 50%;
+   top: 50%;
+   transform: translate(-50%, -50%);
+   transition: all 0.3s ease-out;
+}
